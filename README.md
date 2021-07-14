@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Cortezhac
 - 👀 I’m interested in software development
 - 🌱 I’m currently learning beckend technologies 
-- 💞️ I’m looking to collaborate on Momotolabs
+- 💞️ I’m looking to collaborate on backend infrastructures
 - 📫 How to reach me ...
 
 <!---
